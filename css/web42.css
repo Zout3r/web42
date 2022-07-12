@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Mukta&display=swap');
+
+
+.fondo {
+    background-image: url(https://i.imgur.com/4WaMddE.png);    
+    height: 100%;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    font-family: 'EB Garamond', serif;
+    padding-top: 5%;
+    padding-left: 35%;
+    float: left;
+    font-size: 35pt;
+}
